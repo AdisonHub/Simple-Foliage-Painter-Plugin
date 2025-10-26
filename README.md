@@ -16,15 +16,15 @@ A Godot 4 plugin for painting multimeshes or meshinstances on surfaces
 ## How to use
 
 - Download the code and place content of addons folder into addons folder in your project
-**[Text tutorial](assets/TUTORIAL.md)**
+- **[Text tutorial](assets/TUTORIAL.md)**
 
 ## Preview
 
-![gif1](assets/SimpleFoliageGif1)
+![gif1](assets/SimpleFoliageGif1.gif)
 
-![gif2](assets/SimpleFoliageGif2)
+![gif2](assets/SimpleFoliageGif2.gif)
 
-![gif3](assets/SimpleFoliageGif3)
+![gif3](assets/SimpleFoliageGif3.gif)
 
 ## Credits
 
