@@ -5,7 +5,7 @@
 
 
 ## Installation
-- Download the plugin and move addons folder to your project
+- Download the plugin from [RELEASES](https://github.com/AdisonHub/Simple-Foliage-Painter-Plugin/releases) and move addons folder to your project
 ![tut_installation1](tut_installation1.png)
 - Enable plugin in Godot in Project>Settings>Plugins
 ![tut_installation2](tut_installation2.png)
@@ -70,6 +70,9 @@ OK, so now with the knowledge gained by overview of all options and buttons we c
 9. Select Bake button on top of the Viewport
 10. If your foliage disappeared, it means your camera is too far from terrain, scroll closer ti it an you should start seeing your painted meshes
 11. You can choose on of Unbake options to adjust inspector options or paint/erase meshes and bake again to apply your changes and bake them to multimesh grid
+## Changing visibility ranges in code
+- To change visibility ranges during gameplay by code, you can access method apply_lod_visibility_ranges() on specified SimpleFoliageNode as shown on an example below:  
+ ![tut_visibility1](tut_visibility1.png)  
 ## Known issues and limitations
 - It's hard to paint single instance of an object, if you want to do it, select the smallest brush size with amount 1 and while holding LMB try to move the brush by only one pixel, it should place only one instance
 - Sometimes the buttons on top of the editor don't refresh when they should - if you see incorrect buttons/checboxes you can try one of those solutions:

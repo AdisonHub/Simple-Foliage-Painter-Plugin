@@ -15,8 +15,8 @@ A Godot 4 plugin for painting multimeshes or meshinstances on surfaces
 
 ## How to use
 
-- Download the code and place content of addons folder into addons folder in your project
-- **[Text tutorial](assets/TUTORIAL.md)**
+- Download the code and place content of addons folder into addons folder in your project from [RELEASES](https://github.com/AdisonHub/Simple-Foliage-Painter-Plugin/releases)
+- **See [Text tutorial](assets/TUTORIAL.md)**
 
 ## Preview
 
